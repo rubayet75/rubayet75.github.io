@@ -25,7 +25,7 @@
   }
 
   h1 {
-    margin-bottom: 0.5rem;
+    margin-bottom: 1rem;
     margin-top: 3rem;
    }
 
@@ -70,10 +70,13 @@ figcaption {
  padding: 1.5em;
   text-align: center;
 }
-
+ul{
+  background-color: beige; /* set the background color here */
+  color: black; /* set the text color to black here */
+  font-family: Arial, Helvetica, sans-serif;  /* set the font here */
+  text-align: left;
+  margin: 2.5em;
+  padding: 2.5em; /* set the text alignment here */
+}
   /* this controls how the bullet points in the resume page looks */
-  ul {
-    display: table;
-    margin: 0 auto;
-    text-align: left;
-  }
+  
