@@ -56,8 +56,8 @@
   }
   figure {
   border: 5px #cccccc solid;
-  margin: 1.5em;
-  padding: 1.5em;
+  margin: .5em;
+  padding: .5em;
 }
 
 figcaption {
@@ -66,8 +66,8 @@ figcaption {
   font-style: oblique;
   font-size: large;
   border: 5px #cccccc solid;
- margin: 1.5em;
- padding: 1.5em;
+ margin: .5em;
+ padding: .5em;
   text-align: center;
 }
 ul{
